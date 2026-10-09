@@ -105,6 +105,6 @@ I would like to thank CodeAlpha for providing me with the opportunity to gain pr
 
 ## 📬 Contact
 
-**Name:** Your Name
-**GitHub:** Your GitHub Profile URL
-**LinkedIn:** Your LinkedIn Profile URL
+**Name:** Rajbhar Supriya
+**GitHub:** https://github.com/supriyarajbhar273-dev/CodeAlphaprojects
+
